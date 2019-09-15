@@ -1,20 +1,22 @@
 # Upwork Cover Letter
 
-How to Develop 
------
+Github has really helped me to develop my development skills and open source life to the next level, and now i would like to return the favor in the following way:
+I will do best for Github, and i ensure to continue!
 
-1. Clone this repo `git clone https://github.com/qodrorid/Upwork-CoverLetter.git`
-2.  Once cloned, use his proposal by copying an existing template and put him in the time of submit proposals at upwork. 
+As Github, is already is a fantastic process, it can helps us to acheive more.
+
+Github, helps develop amazing softwae together, by creating tools that make collaborating and writig software easier.
 
 
-Hi there!
+Technical Prowess:
 
-Thanks for downloading this Upwork Cover letter template. We hope you find it useful .
+(a) I am expert at learning new languages and frameworks.
+(b) I am extra-ordinary detail oriented.
+(c) I am practitioner of unit testing.
 
-Just a few things we wanted to point out before you start.
-   - The sections in bold will need to be personalised by you as relevant to the jobs you apply for. 
-   - You can (and you should) personalise your proposals as much as possible. 
-   - So as long as you retain the basic elements, feel free to be creative with your proposals.
-   - Keep your cover letters short, succinct but packed with information about you and how you can help the client achieve their goals. 
-   
-Under this , you will find an example of a proposal, using this template. This will show you exactly how to put the template to use in real life. 
+
+Personality:
+
+(a) I am an easy going person, and enjoy working with others.
+(b) I am very passionate about creating high-quality software.
+(c) I am obsessed with the three C's of open source: creating, contributing and consuming.
